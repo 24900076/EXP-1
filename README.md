@@ -63,13 +63,12 @@ a.   KVL and KCL:
 Tabulation:
 
 a.   KVL:
- ![WhatsApp Image 2025-09-12 at 13 51 54_0544e909](https://github.com/user-attachments/assets/2aff02de-aa10-459a-8831-80c5ae4b52b0)
 
+ ![WhatsApp Image 2025-09-12 at 14 06 31_99f8a960](https://github.com/user-attachments/assets/9dd38a45-66dd-4cee-8d54-58ccf60a34d1)
 
 
 b.  KCL:
-
-![WhatsApp Image 2025-09-12 at 13 51 55_89cb0f0b](https://github.com/user-attachments/assets/cc553904-4219-4ea6-961d-8722c6df290b)
+![WhatsApp Image 2025-09-12 at 14 06 04_c1e3fc55](https://github.com/user-attachments/assets/09aa56cc-bf2f-4cc5-ac6f-5f0b9e92d20d)
 
 
 RESULT:
